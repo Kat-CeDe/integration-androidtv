@@ -77,5 +77,5 @@ NameMatching = {
     "plex": "Plex",
     "kodi": "Kodi",
     "emby": "Emby",
-	"dune": "Dune HD"
+    "dune": "Dune HD",
 }
