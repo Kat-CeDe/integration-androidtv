@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 _Changes in the next release_
 
 ---
-## v0.4.7 - 2024-02-17
+## v0.4.7 - 2024-03-13
 ### Added
 - Kodi as source, Dune HD as app name
 - German translations driver.json 
